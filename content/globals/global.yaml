@@ -1,0 +1,8 @@
+title: Global
+data:
+  site_name: NetStories
+  tagline: 'Just me posting stuff about everything like such as.'
+  social_links:
+    email: 'mailto:radhesingh12321@gmail.com'
+    twitter: 'https://twitter.com/statamic'
+  copyright: 'Stumblr by <a href="https://statamic.com">Statamic</a>.'
